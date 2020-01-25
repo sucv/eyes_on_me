@@ -1,11 +1,14 @@
 ### Introduction
-This is an rearrangement of the guitar tab for *Eyes on Me*.
+
+This is an rearrangement of the guitar tab for **Eyes on Me** from *Final Fantasy XIII*.
 
 The source file is created using Guitar Pro 7.5.
 
 ### To-do List
+
 -[] Fingering
 
-###v1.0
+### v1.0
+
 -[X] Barre
 -[X] Note
