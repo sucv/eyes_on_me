@@ -1,6 +1,9 @@
-### Introduction
+## Introduction
 
 This is the sheet music for **Eyes on Me** from *Final Fantasy XIII*. The source file is created using Guitar Pro 7.5.
+
+
+[It is a replication of this video.](https://www.youtube.com/watch?v=PQuGDFJHw20)
 
 -Instrument: classic guitar;
 -Software: Guitar Pro 7.5
