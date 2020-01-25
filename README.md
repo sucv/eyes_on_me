@@ -5,10 +5,10 @@ This is the sheet music for **Eyes on Me** from *Final Fantasy XIII*. The source
 
 [It is a replication of this video.](https://www.youtube.com/watch?v=PQuGDFJHw20)
 
--Instrument: classic guitar;
--Software: Guitar Pro 7.5
--Track: standard notation + tabulate notation
--Format: gp, pdf, mp3.
+- Instrument: classic guitar;
+- Software: Guitar Pro 7.5
+- Track: standard notation + tabulate notation
+- Format: gp, pdf, mp3.
 
 ### To-do List
 
