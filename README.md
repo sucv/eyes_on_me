@@ -1,8 +1,11 @@
 ### Introduction
 
-This is an rearrangement of the guitar tab for **Eyes on Me** from *Final Fantasy XIII*.
+This is the sheet music for **Eyes on Me** from *Final Fantasy XIII*. The source file is created using Guitar Pro 7.5.
 
-The source file is created using Guitar Pro 7.5.
+-Instrument: classic guitar;
+-Software: Guitar Pro 7.5
+-Track: standard notation + tabulate notation
+-Format: gp, pdf, mp3.
 
 ### To-do List
 
@@ -11,4 +14,5 @@ The source file is created using Guitar Pro 7.5.
 ### v1.0
 
 - [x] Barre
-- [x] Note
+- [x] Standard notation
+- [x] Tabulate notation 
